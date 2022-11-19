@@ -1,0 +1,8 @@
+---
+applications:
+
+
+ - name: Python Flask App OZORZ 2022-11-19
+   random-route: true
+   memory: 512M
+   disk_quota: 1.5G
